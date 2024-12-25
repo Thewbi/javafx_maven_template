@@ -9,14 +9,6 @@
             "name": "App",
             "request": "launch",
             "mainClass": "de.template.App",
-            "projectName": "wirehippo",
-            "vmArgs": "--module-path \"/opt/javafx-sdk-20/lib\" --add-modules javafx.controls,javafx.fxml"
-        },
-        {
-            "type": "java",
-            "name": "App2",
-            "request": "launch",
-            "mainClass": "de.template.App",
             "projectName": "template",
             "vmArgs": "--module-path \"/opt/javafx-sdk-20/lib\" --add-modules javafx.controls,javafx.fxml"
         },
